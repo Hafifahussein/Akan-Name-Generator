@@ -7,6 +7,9 @@
 
 ## Description  
 The **Akan Name Generator** is a web-based tool that calculates and generates Akan names based on the day of the week a person was born. The application takes a birthdate as input and returns the corresponding Akan name based on traditional Ghanaian customs. This tool can be used by anyone curious about Akan names, regardless of nationality.
+#website
+https://akan-name-generator-sigma.vercel.app/
+
 
 Key Features:
 - Input a birthdate to find the Akan name
